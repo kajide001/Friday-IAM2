@@ -5,5 +5,5 @@ variable "ami" {
   
 }
 variable "REGION" {
-  default = "us-west-2"
+  default = "eu-west-2"
 }
